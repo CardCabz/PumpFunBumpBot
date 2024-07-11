@@ -6,7 +6,7 @@ It can be used to be displayed on the main page of pump.fun site.
 
 # Video Demonstration 
 
-
+https://github.com/pumpfun-tools/PumpFun-Bump-Bot/assets/175331277/08cfb390-ef27-42c0-ade6-e59befbe78f1
 
 ## Download and Setup
  
