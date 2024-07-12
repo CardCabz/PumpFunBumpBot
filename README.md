@@ -1,6 +1,6 @@
 # PumpFun-Bump-Bot
 
-This bot buy and sell your token automatically on pump.fun and raydiym
+This bot buy and sell your token automatically on pump.fun and raydiym.
 
 It can be used to be displayed on the main page of pump.fun site.
 
